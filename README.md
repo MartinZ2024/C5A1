@@ -1,4 +1,4 @@
-# C5A1
+# Clase 5 Actividad 1
 Ejercicio de práctica Control de Flujo en Python. Deberán realizar la actividad en un archivo Jupyter Notebook. Y deberán entregar el link del repositorio de GitHub.
 1.	Calculadora Simple: Crea un programa que solicite al usuario dos números y una operación (suma, resta, multiplicación o división). Luego, utilizando estructuras condicionales (if, elif, else), realiza la operación seleccionada e imprime el resultado.
 2.	Contador de Números Pares e Impares: Escribe un programa que recorra una lista de números del 1 al 20. Utilizando un bucle for, determina cuántos de estos números son pares y cuántos son impares. Al final, imprime la cantidad de números pares e impares.
